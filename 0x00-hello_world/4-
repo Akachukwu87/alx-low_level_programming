@@ -1,0 +1,13 @@
+#include <stdio.h>
+/**
+*Discription: main - prints out a str
+ing to stdout.
+* Return: 0 if success.
+*/
+int main(void)
+{
+puts("\"progrmming is like bu
+ilding aa multilingual puzzle"
+);
+return (0);
+}
