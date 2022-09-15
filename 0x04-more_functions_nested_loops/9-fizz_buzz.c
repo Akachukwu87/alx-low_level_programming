@@ -1,4 +1,4 @@
-#include <stdio.h>
+	#include <stdio.h>
 
 /**
 *main - program that prints either number
@@ -42,3 +42,4 @@ int main(void)
 
 	return (0);
 }
+
